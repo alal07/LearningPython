@@ -8,3 +8,7 @@
 2. Automate the boring stuff - [ ] https://automatetheboringstuff.com/
 3. https://docs.python.org/3/. 
 
+6th sept 2022:
+- googled for 'range(n,k) in python' while studying sliding window example solution:
+    - [ ] https://pynative.com/python-range-function/
+    
